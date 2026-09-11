@@ -22,7 +22,7 @@ https://download.hg-fly.net/app/hula_app.html
 
 https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
--  [ルールブック](rule bookv2.pdf)
+-  [ルールブック](rulebookv2.pdf)
 ## pyhula
 ##### プログラミング
 -  [Hulaについて](https://github.com/oit-droneproject/hula)
