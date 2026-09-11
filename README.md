@@ -23,7 +23,7 @@ https://download.hg-fly.net/app/hula_app.html
 https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
 -  [ルールブック](rulebookv2.pdf)
-
+レポートについての記述を追記しております。
 
 ### 使用される色紙と壁紙
 
