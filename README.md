@@ -25,7 +25,7 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 -  [ルールブック](rulebookv2.pdf)
 
 -  使用される色紙と
-|  物品名	| URL|
+|競技資料される場所|  物品名	| URL|
 |-----|-----|-----|
 |ヘリポート|株式会社 田村商店 やよいカラー【30㎝ × 30㎝ サイズ】	|https://tamura1753.stores.jp/items/62cfd25ad858744eaed059ff|
 |ヘリポート|株式会社 田村商店 やよいカラー【30㎝ × 30㎝ サイズ】100枚入	| |
