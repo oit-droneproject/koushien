@@ -24,7 +24,8 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
 -  [ルールブック](rulebookv2.pdf)
 
--  使用される色紙と壁紙
+
+### 使用される色紙と壁紙
 
 |競技資料される場所|  物品名	| URL|
 |-----|-----|-----|
