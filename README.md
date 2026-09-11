@@ -24,15 +24,16 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
 -  [ルールブック](rulebookv2.pdf)
 
--  使用される色紙と
+-  使用される色紙と壁紙
+
 |競技資料される場所|  物品名	| URL|
 |-----|-----|-----|
 |ヘリポート|株式会社 田村商店 やよいカラー【30㎝ × 30㎝ サイズ】	|https://tamura1753.stores.jp/items/62cfd25ad858744eaed059ff|
 |ヘリポート|株式会社 田村商店 やよいカラー【30㎝ × 30㎝ サイズ】100枚入	| |
 |ヘリポート|株式会社 田村商店 やよいカラー【30㎝ × 30㎝ サイズ】100枚入	| |
 |ヘリポート|株式会社 田村商店 やよいカラー　【16㎝ｘ16㎝】　あか・あお・みどり|	https://tamura1753.stores.jp/items/6a8fd8c0e5a6e6231b6aa642|
-|ヘリポート|93cmx2.5m KF-9103　レンガ赤|	https://www.amazon.co.jp/dp/B08X44HXBP |
-|ヘリポート|93cmx10m KF-9303　レンガ赤|	https://www.amazon.co.jp/dp/B08X442HGN |
+|壁紙|93cmx2.5m KF-9103　レンガ赤|	https://www.amazon.co.jp/dp/B08X44HXBP |
+|壁紙|93cmx10m KF-9303　レンガ赤|	https://www.amazon.co.jp/dp/B08X442HGN |
 ## pyhula
 ##### プログラミング
 -  [Hulaについて](https://github.com/oit-droneproject/hula)
