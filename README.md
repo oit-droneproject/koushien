@@ -33,5 +33,6 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 - [pyhula Python API リファレンス（日本語）](https://redcliff-inc.co.jp/downloads/hula/Hula_Python_API_pyhula118_JA.pdf)
 
 ## OITカップ公式
-
+大阪工業大学　情報科学部　実世界情報学科　主催ドローンプログラミング大会
+（科学部の甲子園とは関連ありません）
 https://sites.google.com/view/drone-project-oit/oit%E3%82%AB%E3%83%83%E3%83%97?authuser=0
