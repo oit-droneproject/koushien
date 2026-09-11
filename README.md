@@ -2,9 +2,7 @@
 
 科学の甲子園のインストールや付加情報サイトです。
 
-## OITカップ公式
 
-https://sites.google.com/view/drone-project-oit/oit%E3%82%AB%E3%83%83%E3%83%97?authuser=0
 
 # Hula
 　小型のドローンであり、100g以下であるため国土交通省で登録の必要がないドローンです。
@@ -32,3 +30,7 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 - [Hula-jp 運動制御用 API](https://github.com/oit-droneproject/hula_control)
 - [Hulaカメラ](https://github.com/oit-droneproject/hula_thread)
 - [pyhula Python API リファレンス（日本語）](https://redcliff-inc.co.jp/downloads/hula/Hula_Python_API_pyhula118_JA.pdf)
+
+## OITカップ公式
+
+https://sites.google.com/view/drone-project-oit/oit%E3%82%AB%E3%83%83%E3%83%97?authuser=0
