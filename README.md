@@ -21,7 +21,8 @@ https://download.hg-fly.net/app/hula_app.html
 #### Python　3.12.10
 
 https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
-
+## ルール
+-  [ルールブック](rule bookv2.pdf)
 ## pyhula
 ##### プログラミング
 -  [Hulaについて](https://github.com/oit-droneproject/hula)
