@@ -43,6 +43,7 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 - [VSCode のインストールと Hula への接続](https://github.com/oit-droneproject/vscode)
 - [Hula-jp 運動制御用 API](https://github.com/oit-droneproject/hula_control)
 - [Hulaカメラ](https://github.com/oit-droneproject/hula_thread)
+- [pyhula Python API リファレンス（日本語）](https://redcliff-inc.co.jp/downloads/hula/Hula_Python_API_pyhula118_JA.pdf)
 
 
 ## OITカップ　大阪工業大学　ドローンプログラミング大会
@@ -56,6 +57,5 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 内容：Pythonを使用したドローンプログラミング大会
 
 URL: https://sites.google.com/view/drone-project-oit/oit%E3%82%AB%E3%83%83%E3%83%97?authuser=0
-- [pyhula Python API リファレンス（日本語）](https://redcliff-inc.co.jp/downloads/hula/Hula_Python_API_pyhula118_JA.pdf)
 
 
