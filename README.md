@@ -22,7 +22,7 @@ https://download.hg-fly.net/app/hula_app.html
 
 https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
--  [ルールブック](ルールブックv3.pdf)
+-  [ルールブック](ルールブックv2.pdf)
   
 レポートについての記述を追記しております。
 
