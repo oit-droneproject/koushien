@@ -36,6 +36,7 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
   - 13.を追記
 14. 着陸の判定
   - 8.を追記
+
 15.2 得点表
 - 中得点　位置情報　あり　修正
 - 高得点　位置情報　あり　修正
