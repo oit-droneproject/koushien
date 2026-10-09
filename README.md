@@ -53,7 +53,7 @@ https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 - [pyhula Python API リファレンス（日本語）](https://redcliff-inc.co.jp/downloads/hula/Hula_Python_API_pyhula118_JA.pdf)
 
 
-## OITカップ　大阪工業大学　ドローンプログラミング大会
+## OITカップ2026　大阪工業大学　ドローンプログラミング大会
 
 日時：11月3日（火・祝）10:00から15:00　
 
