@@ -23,9 +23,13 @@ https://download.hg-fly.net/app/hula_app.html
 https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
 -  [ルールブック](ルールブックv3.pdf)
+
 9/12 更新
+
 レポートについての記述を追記 
+
 10/09 更新
+
 8. 競技マップおよびプログラム調整時間
   6.を追記
 10. 競技時間および競技の進行
