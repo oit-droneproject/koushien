@@ -22,9 +22,16 @@ https://download.hg-fly.net/app/hula_app.html
 
 https://redcliff-inc.co.jp/downloads/hula/Pyhula_v31210.zip
 ## ルール
--  [ルールブック](ルールブックv3.pdf)
+-  [ルールブック](ルールブックv2.pdf)
   
 レポートについての記述を追記しております。
+
+8. 競技マップおよびプログラム調整時間
+  6.を追記
+10. 競技時間および競技の進行
+  13.を追記
+14. 着陸の判定
+    8.を追記
 
 ### 使用される色紙と壁紙
 
